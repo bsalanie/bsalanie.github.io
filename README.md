@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/bsalanie/bsalanie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This contains Python code related to separable matching with transferable utilities, as analyzed in [my paper with Alfred Galichon](http://bsalanie.com/wp-content/uploads/2020/05/Cupids-2020-05-16_paper.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At this stage, it has code for our Iterative Projection Fitting Procedure (IPFP)  to solve for equilibrium in a [Choo and Siow 2006](https://www.jstor.org/stable/10.1086/498585?seq=1) model of bipartite, one-to-one matching with perfectly transferable utility.  My [ipfp_python](http://www.github.com/bsalanie/ipfp_python.git) project has IPFP solvers for several variants of the Choo and Siow model: with or without singles, homoskedastic and heteroskedastic. It also contains code for  a [Streamlit](https://www.streamlit.io/) interactive app that demonstrates the basic model (homoskedastic, with singles). You can try it [here](http://18.223.22.194:8501).
 
-### Markdown
+I plan to add  code that uses moment matching to estimate the semilinear Choo and Siow model as per Proposition 5 of the Galichon-Salanie paper.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bsalanie/bsalanie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
