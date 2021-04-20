@@ -4,7 +4,7 @@ My  [ipfp_python](http://www.github.com/bsalanie/ipfp_python.git) repository  co
 
 The repository also contains code for  a [Streamlit](https://www.streamlit.io/) interactive app that demonstrates the basic model (homoskedastic, with singles). You can try it [here](http://3.131.97.82:8501).
 
-My [ipfp_R](http://www.github.com/bsalanie/ipfp_python.git) repository only contains R code to solve for equilibrium in the basic version of the Choo and Siow model.
+My [ipfp_R](http://www.github.com/bsalanie/ipfp_R.git) repository only contains R code to solve for equilibrium in the basic version of the Choo and Siow model.
 
 
 
