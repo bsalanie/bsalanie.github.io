@@ -1,4 +1,4 @@
-## [Bernard Salanie](https://bsalanie.com)'s code for matching models with transferable utility
+## [Bernard Salanie](http://bsalanie.com)'s code for matching models with transferable utility
 
 
 
