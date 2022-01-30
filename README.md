@@ -2,7 +2,7 @@
 
 
 
-My  [cupid_matching](http://www.github.com/bsalanie/cupid_matching.git) repository  contains Python code related to separable matching with transferable utilities, as analyzed in [my paper with Alfred Galichon](http://bsalanie.com/wp-content/uploads/2021/06/2021-06-1_Cupids.pdf). It serves as the basis for my [cupidpython](https://pypi.org/project/cupid_matchingn), which is installable via `pip`. 
+My  [cupid_matching](http://www.github.com/bsalanie/cupid_matching.git) repository  contains Python code related to separable matching with transferable utilities, as analyzed in [my paper with Alfred Galichon](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdab090/6478301). It serves as the basis for my [cupid_matching](https://pypi.org/project/cupid_matching), which is installable via `pip`. 
 
 It replaces my earlier `CupidPython` package, which is now obsolete. 
 
