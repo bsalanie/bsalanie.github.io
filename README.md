@@ -2,7 +2,7 @@
 
 
 
-My  [cupid_matching](http://www.github.com/bsalanie/cupid_matching.git) repository  contains Python code related to separable matching with transferable utilities, as analyzed in [my paper with Alfred Galichon](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdab090/6478301). It serves as the basis for my [cupid_matching](https://pypi.org/project/cupid_matching), which is installable via `pip`. 
+My  [cupid_matching](http://www.github.com/bsalanie/cupid_matching.git) repository  contains Python code related to separable matching with transferable utilities, as analyzed in [my paper with Alfred Galichon](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdab090/6478301). It serves as the basis for my [cupid_matching](https://pypi.org/project/cupid_matching) package, which is installable via `pip`. 
 
 It replaces my earlier `CupidPython` package, which is now obsolete. 
 
@@ -13,9 +13,9 @@ The `cupid_matching` package has code
 * to estimate the parameters of separable models with  semilinear surplus and entropy using a minimum distance estimator.
 * to estimate the parameters of semilinear Choo and Siow models using a Poisson GLM estimator.
 
-{% comment %}
-* for a [Streamlit](https://www.streamlit.io/) interactive app that demonstrates solving and estimating the Choo and Siow model. You can try it [here](https://share.streamlit.io/bsalanie/cupid_matching/main/cupid_streamlit.py).
-{% endcomment %}
+
+I also coded a [Streamlit](https://www.streamlit.io/) interactive app that demonstrates solving and estimating the Choo and Siow model using the `cupid_matching` package. You can try it [here](https://share.streamlit.io/bsalanie/cupid_matching_st/main/cupid_streamlit.py).
+
 
 
 
