@@ -17,4 +17,4 @@ economics; public economics; theoretical and applied econometrics.
 
 I have taught microeconomics, macroeconomics, econometrics at various levels and in various places.
 
-This year I am teaching Econometrics (2nd year PhD), Advanced Microeconomics (Masters) and a senior undergaduate seminar on the economics of climate change.
+This year I am teaching Econometrics (2nd year PhD), Advanced Microeconomics (Masters) and a senior undergraduate seminar on the economics of climate change.
