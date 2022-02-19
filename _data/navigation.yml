@@ -18,5 +18,8 @@ main:
   - title: "Code"
     url: /code/
 
+  - title: "News"
+    url: /news/
+
   # - title: "Guide"
   #   url: /markdown/

@@ -10,7 +10,7 @@ author_profile: true
 
 
 
-My  [cupid_matching](http://www.github.com/bsalanie/cupid_matching.git) repository  contains Python code related to separable matching with transferable utilities, as analyzed in [my paper with Alfred Galichon](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdab090/6478301). It serves as the basis for my [cupid_matching](https://pypi.org/project/cupid_matching) package, which is installable via `pip`. 
+My  [cupid_matching](https://www.github.com/bsalanie/cupid_matching.git) repository  contains Python code related to separable matching with transferable utilities, as analyzed in [my paper with Alfred Galichon](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdab090/6478301). It serves as the basis for my [cupid_matching](https://pypi.org/project/cupid_matching) package, which is installable via `pip`. 
 
 It replaces my earlier `CupidPython` package, which is now obsolete. 
 
@@ -27,7 +27,7 @@ I also coded a [Streamlit](https://www.streamlit.io/) interactive app that demon
 
 
 
-My [ipfp_R](http://www.github.com/bsalanie/ipfp_R.git) repository only contains R code to solve for equilibrium in the basic version of the Choo and Siow model.
+My [ipfp_R](https://www.github.com/bsalanie/ipfp_R.git) repository only contains R code to solve for equilibrium in the basic version of the Choo and Siow model.
 
 
 
