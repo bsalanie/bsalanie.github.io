@@ -64,7 +64,7 @@ The code for the IPFP procedure used in the paper can be found [here](https://py
 
 * in *Online and Matching-Based Market Design*,
     Federico Echenique, Nicole Immorlica, and Vijay V. Vazirani eds,
-    Cambridge University Press:  [Structural Estimation of Matching Markets with Transferable Utility](), with Alfred Galichon:
+    Cambridge University Press:  [Structural Estimation of Matching Markets with Transferable Utility](../files/GalichonSalanie_Chapter_15July2021.pdf), with Alfred Galichon:
 
 We survey recent advances in the estimation of matching models with transferable utility, with special emphasis on methods that exploit the convexity of the problem when the joint surplus is separable.
 
