@@ -12,7 +12,7 @@ A Python package
 ================
 
 `cupid_matching` is out; more details [here](code.md) and [on Pypi](https://pypi.org/project/cupid-matching/). It is `pip`-installable:
-```
+```sh
 pip install cupid_matching
 ```
 
@@ -56,7 +56,7 @@ Many econometric models used in applied work integrate over unobserved heterogen
 Forthcoming
 ===========
 
-* in the *Review of Economic Studies*: "Cupid’s Invisible Hand: Social Surplus and Identification in Matching Models", with Alfred Galichon.
+* in the *Review of Economic Studies*: [Cupid’s Invisible Hand: Social Surplus and Identification in Matching Models](https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdab090/6478301?guestAccessKey=43f4a245-9f5c-48c6-b931-6c8753d31074), with Alfred Galichon.
 
 We investigate a model of one-to-one matching with transferable utility and general unobserved heterogeneity. Under a separability assumption that generalizes Choo and Siow (2006), we first show that the equilibrium matching maximizes a social gain function that trades off exploiting complementarities in observable characteristics and matching on unobserved characteristics. We use this result to derive simple closed- form formulæ that identify the joint matching surplus and the equilibrium utilities of all participants, given any known distribution of unobserved heterogeneity. We provide efficient algorithms to compute the stable matching and to estimate parametric versions of the model. Finally, we revisit Choo and Siow’s empirical application to illustrate the potential of our more general approach.
 
@@ -64,7 +64,7 @@ The code for the IPFP procedure used in the paper can be found [here](https://py
 
 * in *Online and Matching-Based Market Design*,
     Federico Echenique, Nicole Immorlica, and Vijay V. Vazirani eds,
-    Cambridge University Press:  **Structural Estimation of Matching Markets with Transferable Utility**, with Alfred Galichon:
+    Cambridge University Press:  [Structural Estimation of Matching Markets with Transferable Utility](), with Alfred Galichon:
 
 We survey recent advances in the estimation of matching models with transferable utility, with special emphasis on methods that exploit the convexity of the problem when the joint surplus is separable.
 
