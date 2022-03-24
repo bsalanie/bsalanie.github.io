@@ -21,7 +21,12 @@ Feedback is very welcome.
 Recent working papers
 =====================
 
-Revised: [Mating Markets](https://econ.columbia.edu/working-paper/mating-markets-2/),
+*New*: [Estimating Separable Matching Models](https://econ.columbia.edu/working-paper/estimating-separable-matching-models/), with Alfred Galichon:
+
+In this paper we propose two simple methods to estimate models of matching with transferable and separable utility introduced in Galichon and Salanie (2022). The first method is a minimum distance estimator that relies on the generalized entropy of matching. The second relies on a reformulation of the more special but popular Choo and Siow (2006) model; it uses generalized linear models (GLMs) with two-way fixed effects.
+
+
+*Revised*: [Mating Markets](https://econ.columbia.edu/working-paper/mating-markets-2/),
 with Pierre-André Chiappori:
 
 This is the second draft of a chapter for the *Handbook of Family Economics*, Shelly Lundberg and Alessandra Voena eds, Elsevier North Holland.

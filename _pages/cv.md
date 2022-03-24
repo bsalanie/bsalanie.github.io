@@ -37,7 +37,17 @@ Part-time positions
 ====================
 * 1994-2004: Associate professor at Ecole Polytechnique
 * 2004-2007: Professor at Ecole Polytechnique
-* 2014-: Executive Vice-President of the Econometric Society
+* 2014-2018: Executive Vice-President of the Econometric Society
+
+
+Awards
+======
+* Fellow of the Econometric Society
+* Fellow of the International Association for Applied Econometrics
+* Distinguished Author of the Journal of Applied Econometrics
+* Richard Stone Prize (2004)
+* Prize of the French Academy of Social Sciences (2003)
+
 
 Editorial positions
 ===================
