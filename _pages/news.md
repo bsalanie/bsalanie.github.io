@@ -9,7 +9,7 @@ author_profile: true
 
 # A Python package
 
-Version 1.0 of `cupid_matching` is out; more details [here](code.md) and [on Pypi](https://pypi.org/project/cupid-matching/). It is `pip`-installable:
+Version 1.1 of `cupid_matching` is out; more details [here](code.md) and [on Pypi](https://pypi.org/project/cupid-matching/). It is `pip`-installable:
 
 ```sh
 pip install cupid_matching
@@ -19,14 +19,18 @@ Feedback is very welcome.
 
 # Recent working papers
 
+
+_Revised_: [Estimating Separable Matching Models](../files/estimating_separable_models_manuscript.pdf),
+with Alfred Galichon
+
+Most recent empirical applications of matching with transferable utility have imposed a natural restriction: that the joint surplus be separable in the sources of unobserved heterogeneity. We propose here two simple methods to estimate models in this class. The first method is a minimum distance estimator that relies on the generalized entropy of matching introduced in Galichon and Salanié (2022). The second applies to the more special but popular Choo and Siow (2006) model, which it reformulates as a generalized linear model with two-way fixed effects. Both methods are easy to apply and perform very well.
+
+
 _New version of_: [Filtered and Unfiltered Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432#),
 with Simon Lee:
 
 Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion stresses the role of assumptions on targeting (which instruments target which treatments) and filtering (limits on the analyst's knowledge of the treatment assigned to a given observation). It allows us to establish conditions under which counterfactual averages and treatment effects are identified for composite complier groups. We illustrate the usefulness of our framework by applying it to data from the Head Start Impact Study and the Student Achievement and Retention Project.
 
-_New_: [Estimating Separable Matching Models](https://econ.columbia.edu/working-paper/estimating-separable-matching-models/), with Alfred Galichon:
-
-In this paper we propose two simple methods to estimate models of matching with transferable and separable utility introduced in Galichon and Salanie (2022). The first method is a minimum distance estimator that relies on the generalized entropy of matching. The second relies on a reformulation of the more special but popular Choo and Siow (2006) model; it uses generalized linear models (GLMs) with two-way fixed effects.
 
 _Revised_: [Mating Markets](https://econ.columbia.edu/working-paper/mating-markets-2/),
 with Pierre-André Chiappori:
