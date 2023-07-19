@@ -15,6 +15,6 @@ My research fields are in applied microeconomics (insurance; labor; public econo
 
 I have taught microeconomics, macroeconomics, econometrics at various levels and in various places.
 
-This year I will  be teaching Econometrics (1st year PhD) and I will serve as the Program Director for our Masters program.
+This year I will  be teaching Econometrics (1st year PhD) and I will serve as the Program Director for our [Masters program](https://econ.columbia.edu/masters/).
 
 Here are [a short biography](../files/BernardSalanieShortBio.pdf) and [a very short one](../files/BernardSalanieVeryShortBio.pdf).
