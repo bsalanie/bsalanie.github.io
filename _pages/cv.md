@@ -30,7 +30,7 @@ Work experience
 * 2001-2003: Director of CREST
 * 2003-2005: Research Fellow at LEI (CREST)
 * Fall 2005: Visiting Professor at Columbia University.
-* 2005-: Professor at Columbia University (Vice-Chair 2012-2014; Chair 2016-2019)
+* 2005-: Professor at Columbia University (Vice-Chair 2012-2014; Chair 2016-2019; Sami Mnaymneh Professor 2023-)
 * 2009-2010: Visiting Professor at the Toulouse School of Economics.
 
 Part-time positions
