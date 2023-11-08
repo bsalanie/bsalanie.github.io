@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 I am pleased to report atht I am now the Sami Manymneh Professor at Columbia.
+
 # A Python package
 
 Version 1.1 of `cupid_matching` is out; more details [here](code.md) and [on Pypi](https://pypi.org/project/cupid-matching/). It is `pip`-installable:
@@ -16,29 +17,42 @@ Version 1.1 of `cupid_matching` is out; more details [here](code.md) and [on Pyp
 pip install cupid_matching
 ```
 
+My Streamlit app that demoes solving and estimating the Choo and Siow model now allows users to download a summary of their simulation. Check it out [here](http://3.84.215.135:8501).
+
 Feedback is very welcome.
 
-# Recent working papers
+# Recent work
 
-
-_Revised_: [Estimating Separable Matching Models](../files/estimating_separable_models_manuscript.pdf),
+_Now forthcoming in the Journal of Applied Econometrics_: [Estimating Separable Matching Models](../files/estimating_separable_models.pdf),
 with Alfred Galichon
 
 Most recent empirical applications of matching with transferable utility have imposed a natural restriction: that the joint surplus be separable in the sources of unobserved heterogeneity. We propose here two simple methods to estimate models in this class. The first method is a minimum distance estimator that relies on the generalized entropy of matching introduced in Galichon and Salanié (2022). The second applies to the more special but popular Choo and Siow (2006) model, which it reformulates as a generalized linear model with two-way fixed effects. Both methods are easy to apply and perform very well.
 
+_Published_: Mating Markets,
+with Pierre-André Chiappori:.
+This is the second draft of a chapter for the _Handbook of Family Economics_, Shelly Lundberg and Alessandra Voena eds, Elsevier North Holland.
+
+- [Cupid's Invisible Hand: Social Surplus and Identification in Matching Models](https://academic.oup.com/restud/article-abstract/89/5/2600/6478301),
+  _Review of Economic Studies_ (2022), 89, 2600-2629.
+
+We investigate a model of one-to-one matching with transferable utility and general unobserved heterogeneity. Under a separability assumption that generalizes Choo and Siow (2006), we first show that the equilibrium matching maximizes a social gain function that trades off exploiting complementarities in observable characteristics and matching on unobserved characteristics. We use this result to derive simple closed-form formulæ that identify the joint matching surplus and the equilibrium utilities of all participants, given any known distribution of unobserved heterogeneity. We provide efficient algorithms to compute the stable matching and to estimate parametric versions of the model. Finally, we revisit Choo and Siow’s empirical application to illustrate the potential of our more general approach.
+
+The code for the IPFP procedure used in the paper can be found [here](https://pypi.org/project/cupid-matching/), as well as other code for the estimation of separable matching models.
+
+- [Structural Estimation of Matching Markets with Transferable Utility](https://www.cambridge.org/core/books/online-and-matchingbased-market-design/604CA9FF1396C489D6497CF336368524#), with Alfred Galichon, chapter 26 in _Online and Matching-Based Market Design_,
+  Federico Echenique, Nicole Immorlica, and Vijay V. Vazirani eds,
+  Cambridge University Press.
+
+We survey recent advances in the estimation of matching models with transferable utility, with special emphasis on methods that exploit the convexity of the problem when the joint surplus is separable.
+
+    For online access to the book, follow [this link](https://www.cambridge.org/files/9216/8487/6990/matching_book_pw.pdf)
+
+and use the password `OMBMD_CUP`.
 
 _New version of_: [Filtered and Unfiltered Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432#),
 with Simon Lee:
 
 Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion stresses the role of assumptions on targeting (which instruments target which treatments) and filtering (limits on the analyst's knowledge of the treatment assigned to a given observation). It allows us to establish conditions under which counterfactual averages and treatment effects are identified for composite complier groups. We illustrate the usefulness of our framework by applying it to data from the Head Start Impact Study and the Student Achievement and Retention Project.
-
-
-_Revised_: [Mating Markets](https://econ.columbia.edu/working-paper/mating-markets-2/),
-with Pierre-André Chiappori:
-
-This is the second draft of a chapter for the _Handbook of Family Economics_, Shelly Lundberg and Alessandra Voena eds, Elsevier North Holland.
-
-
 
 [Matching with Random Components: Simulations](../files/CNSdraftDec10final.pdf), with Pierre-André Chiappori and Dam Linh Nguyen:
 
@@ -51,45 +65,3 @@ Independence of irrelevant alternatives (IIA) has been much studied in single-ag
 [Fast, “Robust”, and Approximately Correct: Estimating Mixed Demand Systems](../files/BLPwith2SLS_8_March_2019.pdf), with Frank Wolak:
 
 Many econometric models used in applied work integrate over unobserved heterogeneity. We show that a class of these models that includes many random coefficients demand systems can be approximated by a "small-$\sigma$" expansion that yields a linear two-stage least squares estimator. We study in detail the models of product market shares and prices popular in empirical IO. Our estimator is only approximately correct, but it performs very well in practice. It is extremely fast and easy to implement, and it is "robust" to changes in the higher moments of the distribution of the random coefficients. At the very least, it provides excellent starting values for more commonly used estimators of these models.
-
-
-# Recently published
-
-
-- [Cupid's Invisible Hand: Social Surplus and Identification in Matching Models](https://academic.oup.com/restud/article-abstract/89/5/2600/6478301), 
-    *Review of Economic Studies* (2022), 89, 2600-2629.
-
-We investigate a model of one-to-one matching with transferable utility and general unobserved heterogeneity. Under a separability assumption that generalizes Choo and Siow (2006), we first show that the equilibrium matching maximizes a social gain function that trades off exploiting complementarities in observable characteristics and matching on unobserved characteristics. We use this result to derive simple closed-form formulæ that identify the joint matching surplus and the equilibrium utilities of all participants, given any known distribution of unobserved heterogeneity. We provide efficient algorithms to compute the stable matching and to estimate parametric versions of the model. Finally, we revisit Choo and Siow’s empirical application to illustrate the potential of our more general approach.
-
-The code for the IPFP procedure used in the paper can be found [here](https://pypi.org/project/cupid-matching/), as well as other code for the estimation of separable matching models.
-
-- [Structural Estimation of Matching Markets with Transferable Utility](https://www.cambridge.org/core/books/online-and-matchingbased-market-design/604CA9FF1396C489D6497CF336368524#), with Alfred Galichon, chapter 26 in _Online and Matching-Based Market Design_,
-  Federico Echenique, Nicole Immorlica, and Vijay V. Vazirani eds,
-  Cambridge University Press.
-
-
-
-
-We survey recent advances in the estimation of matching models with transferable utility, with special emphasis on methods that exploit the convexity of the problem when the joint surplus is separable.
-
-    For online access to the book, follow [this link](https://www.cambridge.org/files/9216/8487/6990/matching_book_pw.pdf)
-  and use the password `OMBMD_CUP`.
-    
-
-- [On Human Capital and Team Stability](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/702925), _Journal of Human Capital_, Summer 2019, with Alfred Galichon and Pierre-André Chiappori:
-
-In many economic contexts, agents from the same population team up to better exploit their human capital. In such contexts (often called “roommate matching problems”), stable matchings may fail to exist even when utility is transferable. We show that when each individual has a close substitute, a stable matching can be implemented with minimal policy intervention. Our results shed light on the stability of partnerships in the labor market. Moreover, they imply that the tools crafted in empirical studies of the marriage problem can easily be adapted to many roommate problems.
-
-- [From Aggregate Betting Data to Individual Risk Preferences](https://www.econometricsociety.org/system/files/ecta12418.pdf), _Econometrica_, January 2019, with Pierre-André Chiappori, François Salanié, and Amit Gandhi:
-
-We show that even in the absence of data on individual decisions, the distribution of
-individual attitudes towards risk can be identified from the aggregate conditions that
-characterize equilibrium on markets for risky assets. Taking parimutuel horse races
-as a textbook model of contingent markets, we allow for heterogeneous bettors with
-very general risk preferences, including non-expected utility. Under a standard single-crossing condition on preferences, we identify the distribution of preferences among
-the population of bettors and we derive testable implications. We estimate the model
-on data from U.S. races. Specifications based on expected utility fit the data very poorly. Our results stress the crucial importance of nonlinear probability weighting. They also suggest that several dimensions of heterogeneity may be at work.
-
-- [Identifying Effects of Multivalued Treatments](https://www.econometricsociety.org/system/files/ecta14269.pdf)), _Econometrica_, November 2018, with Simon (Sokbae) Lee:
-
-Multivalued treatment models have typically been studied under restrictive assumptions: ordered choice, and more recently, unordered monotonicity. We show how treatment effects can be identified in a more general class of models that allows for multidimensional unobserved heterogeneity. Our results rely on two main assumptions: treatment assignment must be a measurable function of threshold-crossing rules, and enough continuous instruments must be available. We illustrate our approach for several classes of models.

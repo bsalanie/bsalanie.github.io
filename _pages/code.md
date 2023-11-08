@@ -19,6 +19,6 @@ The `cupid_matching` package has code
 - to estimate the parameters of separable models with semilinear surplus and entropy using a minimum distance estimator.
 - to estimate the parameters of semilinear Choo and Siow models using a Poisson GLM estimator.
 
-I also coded a [Streamlit](https://www.streamlit.io/) interactive app that demonstrates solving and estimating the Choo and Siow model using the `cupid_matching` package. You can try it [here](https://share.streamlit.io/bsalanie/cupid_matching_st/main/cupid_streamlit.py).
+I also coded a [Streamlit](https://www.streamlit.io/) interactive app that demonstrates solving and estimating the Choo and Siow model using the `cupid_matching` package. It also allows the user to download a summary of their simulation. You can try it [here](http://3.84.215.135:8501).
 
 My [ipfp_R](https://www.github.com/bsalanie/ipfp_R.git) repository only contains R code to solve for equilibrium in the basic version of the Choo and Siow model.
