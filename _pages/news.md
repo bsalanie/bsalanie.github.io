@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am pleased to report atht I am now the Sami Manymneh Professor at Columbia.
+I am pleased to report that I am now the Sami Manymneh Professor at Columbia.
 
 # A Python package
 
@@ -23,6 +23,13 @@ Feedback is very welcome.
 
 # Recent work
 
+_New paper_: [Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432#).
+with Simon Lee:
+
+This is a shortened and improved version of *Filtered and Unfiltered Treatment Effects with Targeting Instruments*.
+
+Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion revolves around the concept of targeting instruments: which instruments target which treatments. It allows us to establish conditions under which counterfactual averages and treatment effects are point- or partially-identified for composite complier groups. We illustrate the usefulness of our framework by applying it to data from the Head Start Impact Study. Under a plausible positive selection assumption, we derive informative bounds that suggest less beneficial effects of Head Start expansions than the parametric estimates of Kline and Walters (2016).
+
 _Now forthcoming in the Journal of Applied Econometrics_: [Estimating Separable Matching Models](../files/estimating_separable_models.pdf),
 with Alfred Galichon
 
@@ -32,14 +39,14 @@ _Published_: Mating Markets,
 with Pierre-André Chiappori:.
 This is the second draft of a chapter for the _Handbook of Family Economics_, Shelly Lundberg and Alessandra Voena eds, Elsevier North Holland.
 
-- [Cupid's Invisible Hand: Social Surplus and Identification in Matching Models](https://academic.oup.com/restud/article-abstract/89/5/2600/6478301),
+_Published_: [Cupid's Invisible Hand: Social Surplus and Identification in Matching Models](https://academic.oup.com/restud/article-abstract/89/5/2600/6478301),
   _Review of Economic Studies_ (2022), 89, 2600-2629.
 
 We investigate a model of one-to-one matching with transferable utility and general unobserved heterogeneity. Under a separability assumption that generalizes Choo and Siow (2006), we first show that the equilibrium matching maximizes a social gain function that trades off exploiting complementarities in observable characteristics and matching on unobserved characteristics. We use this result to derive simple closed-form formulæ that identify the joint matching surplus and the equilibrium utilities of all participants, given any known distribution of unobserved heterogeneity. We provide efficient algorithms to compute the stable matching and to estimate parametric versions of the model. Finally, we revisit Choo and Siow’s empirical application to illustrate the potential of our more general approach.
 
 The code for the IPFP procedure used in the paper can be found [here](https://pypi.org/project/cupid-matching/), as well as other code for the estimation of separable matching models.
 
-- [Structural Estimation of Matching Markets with Transferable Utility](https://www.cambridge.org/core/books/online-and-matchingbased-market-design/604CA9FF1396C489D6497CF336368524#), with Alfred Galichon, chapter 26 in _Online and Matching-Based Market Design_,
+_Published_: [Structural Estimation of Matching Markets with Transferable Utility](https://www.cambridge.org/core/books/online-and-matchingbased-market-design/604CA9FF1396C489D6497CF336368524#), with Alfred Galichon, chapter 26 in _Online and Matching-Based Market Design_,
   Federico Echenique, Nicole Immorlica, and Vijay V. Vazirani eds,
   Cambridge University Press.
 
@@ -49,10 +56,7 @@ We survey recent advances in the estimation of matching models with transferable
 
 and use the password `OMBMD_CUP`.
 
-_New version of_: [Filtered and Unfiltered Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432#),
-with Simon Lee:
 
-Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion stresses the role of assumptions on targeting (which instruments target which treatments) and filtering (limits on the analyst's knowledge of the treatment assigned to a given observation). It allows us to establish conditions under which counterfactual averages and treatment effects are identified for composite complier groups. We illustrate the usefulness of our framework by applying it to data from the Head Start Impact Study and the Student Achievement and Retention Project.
 
 [Matching with Random Components: Simulations](../files/CNSdraftDec10final.pdf), with Pierre-André Chiappori and Dam Linh Nguyen:
 
