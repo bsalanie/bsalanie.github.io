@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am pleased to report that I am now the Sami Manymneh Professor at Columbia.
+I am pleased to report that I am now the Sami Mnaymneh Professor at Columbia.
 
 # A Python package
 
