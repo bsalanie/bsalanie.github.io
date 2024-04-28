@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am pleased to report that I am now the Sami Mnaymneh Professor at Columbia.
+
 
 # A Python package
 
@@ -22,6 +22,12 @@ My Streamlit app that demoes solving and estimating the Choo and Siow model now 
 Feedback is very welcome.
 
 # Recent work
+
+_New paper_: [Testing for Asymmetric Information in Insurance with Deep Learning](https://bsalanie.github.io/files/InsuranceTest_26April2024.pdf).
+with Serguei Maliar:
+
+The positive correlation test for asymmetric information developed by Chiappori and Salanié (2000) has been applied in many insurance markets. Most of the literature focuses on the special case of constant correlation; it also relies on restrictive parametric specifications for the choice of coverage and the occurrence of claims. We relax these restrictions by estimating conditional covariances and correlations using deep learning methods. We test the positive correlation property by using the intersection test of Chernozhukov, Lee, and Rosen (2013) and the “sorted groups” test of Chernozhukov, Demirer, Duflo, and Fernández-Val (2023). Our results confirm earlier findings that the correlation between risk and coverage is small. Random forests and gradient boosting trees produce similar results to neural networks.
+
 
 _New paper_: [Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432#).
 with Simon Lee:
