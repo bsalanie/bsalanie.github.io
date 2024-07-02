@@ -23,10 +23,15 @@ Feedback is very welcome.
 
 # Recent work
 
+_New paper: [Matching with Transfers: Applications](https://bsalanie.github.io/files/MatchingTUapplisv2.pdf)
+
+This is the second draft of a chapter for Volume 1 of the new *Handbook of the Economics of Matching*, which I am coediting with Yeon-Koo Che and Pierre-André Chiappori.
+
 _New paper_: [Testing for Asymmetric Information in Insurance with Deep Learning](https://bsalanie.github.io/files/InsuranceTest_26April2024.pdf).
 with Serguei Maliar:
 
 The positive correlation test for asymmetric information developed by Chiappori and Salanié (2000) has been applied in many insurance markets. Most of the literature focuses on the special case of constant correlation; it also relies on restrictive parametric specifications for the choice of coverage and the occurrence of claims. We relax these restrictions by estimating conditional covariances and correlations using deep learning methods. We test the positive correlation property by using the intersection test of Chernozhukov, Lee, and Rosen (2013) and the “sorted groups” test of Chernozhukov, Demirer, Duflo, and Fernández-Val (2023). Our results confirm earlier findings that the correlation between risk and coverage is small. Random forests and gradient boosting trees produce similar results to neural networks.
+
 
 
 _New paper_: [Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432#).
@@ -58,7 +63,7 @@ _Published_: [Structural Estimation of Matching Markets with Transferable Utilit
 
 We survey recent advances in the estimation of matching models with transferable utility, with special emphasis on methods that exploit the convexity of the problem when the joint surplus is separable.
 
-    For online access to the book, follow [this link](https://www.cambridge.org/files/9216/8487/6990/matching_book_pw.pdf)
+For online access to the book, follow [this link](https://www.cambridge.org/files/9216/8487/6990/matching_book_pw.pdf)
 
 and use the password `OMBMD_CUP`.
 
