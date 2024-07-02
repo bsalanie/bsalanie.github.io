@@ -41,8 +41,9 @@ This is a shortened and improved version of *Filtered and Unfiltered Treatment E
 
 Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion revolves around the concept of targeting instruments: which instruments target which treatments. It allows us to establish conditions under which counterfactual averages and treatment effects are point- or partially-identified for composite complier groups. We illustrate the usefulness of our framework by applying it to data from the Head Start Impact Study. Under a plausible positive selection assumption, we derive informative bounds that suggest less beneficial effects of Head Start expansions than the parametric estimates of Kline and Walters (2016).
 
-_Now forthcoming in the Journal of Applied Econometrics_: [Estimating Separable Matching Models](../files/estimating_separable_models.pdf),
-with Alfred Galichon
+_Now forthcoming in the Journal of Applied Econometrics_: [Estimating Separable
+Matching Models](https://onlinelibrary.wiley.com/doi/10.1002/jae.3061") with
+Alfred Galichon
 
 Most recent empirical applications of matching with transferable utility have imposed a natural restriction: that the joint surplus be separable in the sources of unobserved heterogeneity. We propose here two simple methods to estimate models in this class. The first method is a minimum distance estimator that relies on the generalized entropy of matching introduced in Galichon and Salanié (2022). The second applies to the more special but popular Choo and Siow (2006) model, which it reformulates as a generalized linear model with two-way fixed effects. Both methods are easy to apply and perform very well.
 
