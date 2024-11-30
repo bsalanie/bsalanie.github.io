@@ -51,7 +51,7 @@ Multivalued treatments are commonplace in applications. We explore the use of di
 
 
 _Published_: [Estimating Separable
-Matching Models](https://onlinelibrary.wiley.com/doi/10.1002/jae.3061") with
+Matching Models](https://onlinelibrary.wiley.com/doi/10.1002/jae.3061) with
 Alfred Galichon,  _Journal of Applied Econometrics_ (2024), 39, 1021-1044.
 
 Most recent empirical applications of matching with transferable utility have imposed a natural restriction: that the joint surplus be separable in the sources of unobserved heterogeneity. We propose here two simple methods to estimate models in this class. The first method is a minimum distance estimator that relies on the generalized entropy of matching introduced in Galichon and Salanié (2022). The second applies to the more special but popular Choo and Siow (2006) model, which it reformulates as a generalized linear model with two-way fixed effects. Both methods are easy to apply and perform very well.
