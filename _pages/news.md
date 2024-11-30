@@ -23,7 +23,15 @@ Feedback is very welcome.
 
 # Recent work
 
-_New paper: [Matching with Transfers: Applications](https://bsalanie.github.io/files/MatchingTUapplisv2.pdf)
+_New paper_: [The Perfect Match: Assortative Matching in Mergers and Acquisitions](https://bsalanie.github.io/files/PerfectMatch241122.pdf), with Maria Guadalupe, Veronica Rappoport, and 
+Catherine Thomas:
+
+We interpret M&A deals in Western Europe during the 2010s as the equilibrium of a matching model. Merger surplus arises from complementarities between multiple firm pre-merger characteristics. Large, productive firms prefer to merge with similarly productive but smaller partners, suggesting positive complementarity in productivities and negative cross complementarity between productivity and scale. We use post-merger data to show that estimated complementarities are strong predictors of merged firm performance. Our results inform the empirical relevance of diﬀerent theories of mergers.
+
+_New paper_: [Hedonic and Matching Models](https://bsalanie.github.io/files/GalichonSalanie_handbook_chapter_13Nov2024.pdf), with Alfred Galichon. This is the first draft of a chapter for the _Handbook of Econometrics_, Jim Heckman, Lars Hansen and Rosa Matzkin eds, Elsevier North Holland.
+
+
+_New paper_: [Matching with Transfers: Applications](https://bsalanie.github.io/files/MatchingTUapplisv2.pdf)
 
 This is the second draft of a chapter for Volume 1 of the new *Handbook of the Economics of Matching*, which I am coediting with Yeon-Koo Che and Pierre-André Chiappori.
 
@@ -41,9 +49,10 @@ This is a shortened and improved version of *Filtered and Unfiltered Treatment E
 
 Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion revolves around the concept of targeting instruments: which instruments target which treatments. It allows us to establish conditions under which counterfactual averages and treatment effects are point- or partially-identified for composite complier groups. We illustrate the usefulness of our framework by applying it to data from the Head Start Impact Study. Under a plausible positive selection assumption, we derive informative bounds that suggest less beneficial effects of Head Start expansions than the parametric estimates of Kline and Walters (2016).
 
-_Now forthcoming in the Journal of Applied Econometrics_: [Estimating Separable
+
+_Published_: [Estimating Separable
 Matching Models](https://onlinelibrary.wiley.com/doi/10.1002/jae.3061") with
-Alfred Galichon
+Alfred Galichon,  _Journal of Applied Econometrics_ (2024), 39, 1021-1044.
 
 Most recent empirical applications of matching with transferable utility have imposed a natural restriction: that the joint surplus be separable in the sources of unobserved heterogeneity. We propose here two simple methods to estimate models in this class. The first method is a minimum distance estimator that relies on the generalized entropy of matching introduced in Galichon and Salanié (2022). The second applies to the more special but popular Choo and Siow (2006) model, which it reformulates as a generalized linear model with two-way fixed effects. Both methods are easy to apply and perform very well.
 
