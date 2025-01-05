@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
+# Economic Theory 
+I am honored by my election as an Economic Theory fellow, and grateful to the [Society for Advancement of Economic Theory](https://saet.uiowa.edu) for this recognition.
 
 # A Python package
 

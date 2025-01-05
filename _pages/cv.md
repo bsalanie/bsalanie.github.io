@@ -44,6 +44,7 @@ Awards
 ======
 * Fellow of the Econometric Society
 * Fellow of the International Association for Applied Econometrics
+* Economic Theory Fellow
 * Distinguished Author of the Journal of Applied Econometrics
 * Richard Stone Prize (2004)
 * Prize of the French Academy of Social Sciences (2003)
