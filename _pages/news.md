@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+# Handbook of the Economics of Matching
+
+[Volume I of the Handbook of the Economics of Matching](https://shop.elsevier.com/books/handbook-of-the-economics-of-matching/che/978-0-443-31466-7) has just been publlished by Elsevier. I coedited it 
+ with Yeon-Koo Che and  Pierre-Andr Chiappori, and I wrote chapter 2 on *Matching with Transfers: Applications*.
+
 
 # Economic Theory 
 I am honored by my election as an Economic Theory fellow, and grateful to the [Society for Advancement of Economic Theory](https://saet.uiowa.edu) for this recognition.
