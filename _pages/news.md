@@ -7,16 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-# Handbook of the Economics of Matching
+## Handbook of the Economics of Matching
 
 [Volume I of the Handbook of the Economics of Matching](https://shop.elsevier.com/books/handbook-of-the-economics-of-matching/che/978-0-443-31466-7) has just been published by Elsevier. I coedited it 
  with Yeon-Koo Che and  Pierre-André Chiappori, and I wrote chapter 2 on *Matching with Transfers: Applications*.
 
 
-# Economic Theory 
+## Economic Theory 
 I am honored by my election as an Economic Theory fellow, and grateful to the [Society for Advancement of Economic Theory](https://saet.uiowa.edu) for this recognition.
 
-# A Python package
+## A Python package
 
 Version 1.1 of `cupid_matching` is out; more details [here](code.md) and [on Pypi](https://pypi.org/project/cupid-matching/). It is `pip`-installable:
 
@@ -28,7 +28,7 @@ My Streamlit app that demoes solving and estimating the Choo and Siow model now 
 
 Feedback is very welcome.
 
-# Recent work
+## Recent work
 
 _New paper_: [The Perfect Match: Assortative Matching in Mergers and Acquisitions](https://bsalanie.github.io/files/PerfectMatch241122.pdf), with Maria Guadalupe, Veronica Rappoport, and 
 Catherine Thomas:
@@ -94,6 +94,18 @@ Several recent papers have analyzed matching markets under the dual assumption o
 
 Independence of irrelevant alternatives (IIA) has been much studied in single-agent decision problems. We explore its extension to models of two-sided choice and perfectly transferable utility. We start with models with a separable logit structure, à la Choo and Siow (2006). We first show that this model satisfies a weak version of IIA. On the other hand, we conjecture that no separable model satisfies a stronger version of IIA. We then exhibit a two-sided version of the “blue bus/red bus” paradox, which shows that the separable logit model is not robust to irrelevant relabeling.
 
-[Fast, “Robust”, and Approximately Correct: Estimating Mixed Demand Systems](../files/BLPwith2SLS_8_March_2019.pdf), with Frank Wolak:
+[Fast, Detail-free, and Approximately Correct: Estimating Mixed Demand Systems](../files/FRAC_17June2022.pdf), with Frank Wolak:
 
-Many econometric models used in applied work integrate over unobserved heterogeneity. We show that a class of these models that includes many random coefficients demand systems can be approximated by a "small-$\sigma$" expansion that yields a linear two-stage least squares estimator. We study in detail the models of product market shares and prices popular in empirical IO. Our estimator is only approximately correct, but it performs very well in practice. It is extremely fast and easy to implement, and it is "robust" to changes in the higher moments of the distribution of the random coefficients. At the very least, it provides excellent starting values for more commonly used estimators of these models.
+Many econometric models used in applied work integrate over unobserved
+heterogeneity. We show that a class of these models that includes many ran-
+dom coeﬃcients demand systems can be approximated by a “small-σ” expan-
+sion that yields a linear two-stage least squares estimator. While our estimator
+is only approximately correct, it is extremely fast and easy to implement. It
+is also detail-free: its implementation does not rely on the higher moments
+of the distribution of the random coeﬃcients. We test our approach on the
+models of product shares and prices popular in empirical IO, with or without
+micromoments and with or without specifiying supply. Monte Carlo simula-
+tions suggest that our approximate estimator performs surprisingly well: its
+asymptotic bias is usually small, and it works well in finite samples. A simple
+Newton-Raphson correction further improves the estimates at minimal cost.
+Moreover, our method yields simple and useful exclusion tests.
