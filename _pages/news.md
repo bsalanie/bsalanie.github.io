@@ -32,7 +32,7 @@ Feedback is very welcome.
 
 ## Recent work
 
-_New paper: [The Econometrics of Matching with Transferable Utility: A Progress Report](https://bsalanie.github.io/files.CNSdraft11June2025.pdf) (with Pierre-André Chiappori and  Dam Linh Nguyen):
+_New paper_: [The Econometrics of Matching with Transferable Utility: A Progress Report](https://bsalanie.github.io/files.CNSdraft11June2025.pdf) (with Pierre-André Chiappori and  Dam Linh Nguyen):
 
 Since Choo and Siow (2006), a burgeoning literature has analyzed matching markets when utility is perfectly transferable and the joint surplus is separable. We take stock of recent methodogical developments in this area. Combining theoretical arguments and simulations, we show that the separable approach is reasonably robust to omitted variables and/or non-separabilities. We conclude with a caveat on data requirements and imbalanced datasets.
 
