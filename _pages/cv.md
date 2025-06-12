@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf version of CV](https://bsalanie.github.io/files/CV_BSalanie.pdf)
+
 Education
 =========
 * Ecole Polytechnique (1984)

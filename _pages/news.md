@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+
+
 ## Handbook of the Economics of Matching
 
 [Volume I of the Handbook of the Economics of Matching](https://shop.elsevier.com/books/handbook-of-the-economics-of-matching/che/978-0-443-31466-7) has just been published by Elsevier. I coedited it 
@@ -29,6 +31,11 @@ My Streamlit app that demoes solving and estimating the Choo and Siow model now 
 Feedback is very welcome.
 
 ## Recent work
+
+_New paper: [The Econometrics of Matching with Transferable Utility: A Progress Report](https://bsalanie.github.io/files.CNSdraft11June2025.pdf) (with Pierre-André Chiappori and  Dam Linh Nguyen):
+
+Since Choo and Siow (2006), a burgeoning literature has analyzed matching markets when utility is perfectly transferable and the joint surplus is separable. We take stock of recent methodogical developments in this area. Combining theoretical arguments and simulations, we show that the separable approach is reasonably robust to omitted variables and/or non-separabilities. We conclude with a caveat on data requirements and imbalanced datasets.
+
 
 _New paper_: [The Perfect Match: Assortative Matching in Mergers and Acquisitions](https://bsalanie.github.io/files/PerfectMatch241122.pdf), with Maria Guadalupe, Veronica Rappoport, and 
 Catherine Thomas:
