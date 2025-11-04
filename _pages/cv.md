@@ -32,7 +32,7 @@ Work experience
 * 2001-2003: Director of CREST
 * 2003-2005: Research Fellow at LEI (CREST)
 * Fall 2005: Visiting Professor at Columbia University.
-* 2005-: Professor at Columbia University (Vice-Chair 2012-2014; Chair 2016-2019; Sami Mnaymneh Professor 2023-)
+* 2005-: Professor at Columbia University (Vice-Chair 2012-2014; Chair 2016-2019, 2025-; Sami Mnaymneh Professor 2023-)
 * 2009-2010: Visiting Professor at the Toulouse School of Economics.
 
 Part-time positions
@@ -47,19 +47,20 @@ Awards
 * Fellow of the Econometric Society
 * Fellow of the International Association for Applied Econometrics
 * Economic Theory Fellow
-* Distinguished Author of the Journal of Applied Econometrics
+* Distinguished Author of the *Journal of Applied Econometrics*
 * Richard Stone Prize (2004)
 * Prize of the French Academy of Social Sciences (2003)
 
 
 Editorial positions
 ===================
+* Editor of *Quantitative Economics* (2025-).
 *  Member of the Advisory Board of 
     *Annals of Economics and Statistics* 
       (2014-).
 * Associate editor of the 
     *American Economic Journal: Microeconomics* 
-      (2007-).
+      (2007-2019).
 *  Associate editor of 
    *Annals of Economics and Statistics*
       (1989-2008), of 

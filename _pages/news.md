@@ -18,8 +18,15 @@ author_profile: true
 ## Economic Theory 
 I am honored by my election as an Economic Theory fellow, and grateful to the [Society for Advancement of Economic Theory](https://saet.uiowa.edu) for this recognition.
 
-## A Python package
+## Python packages
 
+### New! `frac_blp`
+I have just released a Python package, `frac_blp`, that implements the FRAC estimator of Salanié and Wolak (2022) for mixed logit demand models of the macro-BLP type. More details [here](code.md) and [on Pypi](https://pypi.org/project/frac-blp/). It is `pip`-installable:
+```sh
+pip install frac-blp
+```
+
+### `cupid_matching` 1.1 released
 Version 1.1 of `cupid_matching` is out; more details [here](code.md) and [on Pypi](https://pypi.org/project/cupid-matching/). It is `pip`-installable:
 
 ```sh
