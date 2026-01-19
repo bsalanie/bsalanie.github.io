@@ -9,10 +9,10 @@ author_profile: true
 
 
 
-## Handbook of the Economics of Matching
+## Handbook of the Economics of Matching now complete
 
-[Volume I of the Handbook of the Economics of Matching](https://shop.elsevier.com/books/handbook-of-the-economics-of-matching/che/978-0-443-31466-7) has just been published by Elsevier. I coedited it 
- with Yeon-Koo Che and  Pierre-André Chiappori, and I wrote chapter 2 on *Matching with Transfers: Applications*.
+[Volume II of the Handbook of the Economics of Matching](https://shop.elsevier.com/books/handbook-of-the-economics-of-matching/che/978-0-443-42863-0) has just been published by Elsevier. I coedited it 
+ with Yeon-Koo Che and  Pierre-André Chiappori.  Volume I was on matching with transfers;  this volume (surprise!) is on matching without transfers. 
 
 
 ## Economic Theory 
