@@ -5,5 +5,7 @@ gem "github-pages"
 
 # gem "rails"
 
-gem "webrick", "~> 1.8"
-gem "sassc", "~> 2.4"
+gem "webrick", ">= 1.8.2"
+gem "sassc"
+gem "rexml", ">= 3.3.9"
+gem "nokogiri", ">=1.18.9"
