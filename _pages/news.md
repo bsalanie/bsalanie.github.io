@@ -39,6 +39,13 @@ Feedback is very welcome.
 
 ## Recent work
 
+_Revised paper_:  [Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432).
+with Simon Lee:
+
+This is a shortened and improved version of *Filtered and Unfiltered Treatment Effects with Targeting Instruments*.
+
+Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion revolves around the concept of targeting: which instruments target which treatments. It allows us to establish conditions under which counterfactual averages and treatment effects are point- or partially-identified for composite complier groups. We explore the additional identifying power of a positive selection assumption. We illustrate its usefulness by revisiting the findings of Kline and Walters (2016) on the Head Start Impact Study. We derive informative bounds that suggest less beneficial effects of Head Start expansions than their parametric estimates.
+
 _New paper_: [The Econometrics of Matching with Transferable Utility: A Progress Report](https://bsalanie.github.io/files/CNSdraft11June2025.pdf) (with Pierre-André Chiappori and  Dam Linh Nguyen):
 
 Since Choo and Siow (2006), a burgeoning literature has analyzed matching markets when utility is perfectly transferable and the joint surplus is separable. We take stock of recent methodogical developments in this area. Combining theoretical arguments and simulations, we show that the separable approach is reasonably robust to omitted variables and/or non-separabilities. We conclude with a caveat on data requirements and imbalanced datasets.
@@ -52,9 +59,6 @@ We interpret M&A deals in Western Europe during the 2010s as the equilibrium of 
 _New paper_: [Hedonic and Matching Models](https://bsalanie.github.io/files/GalichonSalanie_handbook_chapter_13Nov2024.pdf), with Alfred Galichon. This is the first draft of a chapter for the _Handbook of Econometrics_, Jim Heckman, Lars Hansen and Rosa Matzkin eds, Elsevier North Holland.
 
 
-_New paper_: [Matching with Transfers: Applications](https://bsalanie.github.io/files/MatchingTUapplisv2.pdf)
-
-This is the second draft of a chapter for Volume 1 of the new *Handbook of the Economics of Matching*, which I am coediting with Yeon-Koo Che and Pierre-André Chiappori.
 
 _New paper_: [Testing for Asymmetric Information in Insurance with Deep Learning](https://bsalanie.github.io/files/InsuranceTest_26April2024.pdf).
 with Serguei Maliar:
@@ -62,13 +66,6 @@ with Serguei Maliar:
 The positive correlation test for asymmetric information developed by Chiappori and Salanié (2000) has been applied in many insurance markets. Most of the literature focuses on the special case of constant correlation; it also relies on restrictive parametric specifications for the choice of coverage and the occurrence of claims. We relax these restrictions by estimating conditional covariances and correlations using deep learning methods. We test the positive correlation property by using the intersection test of Chernozhukov, Lee, and Rosen (2013) and the “sorted groups” test of Chernozhukov, Demirer, Duflo, and Fernández-Val (2023). Our results confirm earlier findings that the correlation between risk and coverage is small. Random forests and gradient boosting trees produce similar results to neural networks.
 
 
-
-_New paper_: [Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432#).
-with Simon Lee:
-
-This is a shortened and improved version of *Filtered and Unfiltered Treatment Effects with Targeting Instruments*.
-
-Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion revolves around the concept of targeting instruments: which instruments target which treatments. It allows us to establish conditions under which counterfactual averages and treatment effects are point- or partially-identified for composite complier groups. We illustrate the usefulness of our framework by applying it to data from the Head Start Impact Study. Under a plausible positive selection assumption, we derive informative bounds that suggest less beneficial effects of Head Start expansions than the parametric estimates of Kline and Walters (2016).
 
 
 _Published_: [Estimating Separable
