@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
+## The Econometrics of Matching with Transferable Utility: A Progress Report
+I wrote [this](https://arxiv.org/abs/2604.16127) with Pierre-André Chiappori and Dam Linh Nguyen for a special issue of the *Journal of Mechanism and Institution Design* honoring our late friend [Yinghua He](https://profiles.rice.edu/faculty/yinghua-he).
+
 
 ## Handbook of the Economics of Matching now complete
 
