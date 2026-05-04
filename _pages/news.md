@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+##  Treatment Effects with Targeting Instruments
+[My paper with Simon Lee](https://arxiv.org/abs/2007.10432) is now forthcoming at the *Journal fo Econometrics*.
+
+It is a shortened and improved version of *Filtered and Unfiltered Treatment Effects with Targeting Instruments*.
+
+Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion revolves around the concept of targeting: which instruments target which treatments. It allows us to establish conditions under which counterfactual averages and treatment effects are point- or partially-identified for composite complier groups. We explore the additional identifying power of a positive selection assumption. We illustrate its usefulness by revisiting the findings of Kline and Walters (2016) on the Head Start Impact Study. We derive informative bounds that suggest less beneficial effects of Head Start expansions than their parametric estimates.
 
 ## The Econometrics of Matching with Transferable Utility: A Progress Report
 I wrote [this](https://arxiv.org/abs/2604.16127) with Pierre-André Chiappori and Dam Linh Nguyen for a special issue of the *Journal of Mechanism and Institution Design* honoring our late friend [Yinghua He](https://profiles.rice.edu/faculty/yinghua-he).
@@ -42,16 +48,6 @@ Feedback is very welcome.
 
 ## Recent work
 
-_Revised paper_:  [Treatment Effects with Targeting Instruments](https://arxiv.org/abs/2007.10432).
-with Simon Lee:
-
-This is a shortened and improved version of *Filtered and Unfiltered Treatment Effects with Targeting Instruments*.
-
-Multivalued treatments are commonplace in applications. We explore the use of discrete-valued instruments to control for selection bias in this setting. Our discussion revolves around the concept of targeting: which instruments target which treatments. It allows us to establish conditions under which counterfactual averages and treatment effects are point- or partially-identified for composite complier groups. We explore the additional identifying power of a positive selection assumption. We illustrate its usefulness by revisiting the findings of Kline and Walters (2016) on the Head Start Impact Study. We derive informative bounds that suggest less beneficial effects of Head Start expansions than their parametric estimates.
-
-_New paper_: [The Econometrics of Matching with Transferable Utility: A Progress Report](https://bsalanie.github.io/files/CNSdraft11June2025.pdf) (with Pierre-André Chiappori and  Dam Linh Nguyen):
-
-Since Choo and Siow (2006), a burgeoning literature has analyzed matching markets when utility is perfectly transferable and the joint surplus is separable. We take stock of recent methodogical developments in this area. Combining theoretical arguments and simulations, we show that the separable approach is reasonably robust to omitted variables and/or non-separabilities. We conclude with a caveat on data requirements and imbalanced datasets.
 
 
 _New paper_: [The Perfect Match: Assortative Matching in Mergers and Acquisitions](https://bsalanie.github.io/files/PerfectMatch241122.pdf), with Maria Guadalupe, Veronica Rappoport, and 
