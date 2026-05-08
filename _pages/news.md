@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ##  Treatment Effects with Targeting Instruments
-[My paper with Simon Lee](https://arxiv.org/abs/2007.10432) is now forthcoming at the *Journal fo Econometrics*.
+[My paper with Simon Lee](https://arxiv.org/abs/2007.10432) is now forthcoming at the *Journal of Econometrics*.
 
 It is a shortened and improved version of *Filtered and Unfiltered Treatment Effects with Targeting Instruments*.
 
